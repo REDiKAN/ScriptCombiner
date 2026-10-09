@@ -1,0 +1,24 @@
+{
+  "name": "com.red.scriptcombiner",
+  "version": "1.0.0",
+  "displayName": "Script Combiner",
+  "description": "Advanced Unity Editor tool for combining, analyzing and cleaning C# scripts.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/yourusername/ScriptCombiner",
+  "changelogUrl": "https://github.com/yourusername/ScriptCombiner/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/yourusername/ScriptCombiner/blob/main/LICENSE.md",
+  "keywords": [
+    "editor",
+    "tools",
+    "utility",
+    "scripts",
+    "devops"
+  ],
+    "author": {
+        "name": "REDIKAN",
+        "email": "redikan15@gmail.com",
+        "url": "https://github.com/REDiKAN"
+    },
+  "type": "tool"
+}
