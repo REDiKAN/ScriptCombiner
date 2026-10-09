@@ -2,6 +2,8 @@
 
 A production-ready Unity Editor tool designed for consolidating, statically analyzing, and cleaning C# codebases. Engineered to streamline code reviews, prepare context for LLM analysis, and facilitate large-scale project refactoring.
 
+<img width="450" height="722" alt="image_2026-10-09_19-35-01" src="https://github.com/user-attachments/assets/0d6a793b-e3a4-4d43-a1f3-5d0c03a124ab" />
+
 ## 🚀 Key Features
 
 * **Asynchronous I/O**: Processes hundreds of files without blocking the Unity Editor UI thread utilizing `async/await` and `Task.WhenAll`.
